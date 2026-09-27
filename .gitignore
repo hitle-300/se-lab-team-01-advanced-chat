@@ -1,0 +1,33 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+build/
+pubspec.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter_build_caches_override
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Native build (Windows)
+obj/
+bin/
+*.exe
+
+# ffmpeg runtime binary (كبيرة الحجم، تُستثنى من النسخ)
+client/ffmpeg/
+
+# Golden-test failure artifacts (يُنشئها flutter test عند فشل الصور الذهبية)
+client/test/failures/
+
+# سجلات التشغيل (ينشئها الخادم أثناء التشغيل)
+logs/
+*.log
+
+# OS
+Thumbs.db
+Desktop.ini
