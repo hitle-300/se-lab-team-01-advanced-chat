@@ -6,7 +6,7 @@
 2026-09-27
 
 ### Student
-أعضاء الفريق
+محمد الحضرمي
 
 ### Tool
 Gemini Advanced (Antigravity IDE)
