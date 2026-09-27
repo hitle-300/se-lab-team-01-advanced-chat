@@ -18,11 +18,11 @@
 
 ## إدارة العمل
 
-- [ ] GitHub Project موجود.
-- [ ] الأعمدة: Backlog, Ready, In Progress, In Review, Done.
-- [ ] خمس Issues على الأقل.
-- [ ] كل Issue تحتوي User Story وAcceptance Criteria وEdge Cases.
-- [ ] لكل Issue Assignee وPriority.
+- [x] GitHub Project موجود.
+- [x] الأعمدة: Backlog, Ready, In Progress, In Review, Done.
+- [x] خمس Issues على الأقل.
+- [x] كل Issue تحتوي User Story وAcceptance Criteria وEdge Cases.
+- [x] لكل Issue Assignee وPriority.
 
 ## Git Workflow
 
@@ -42,5 +42,5 @@
 
 ## التسليم
 
-- [ ] رابط المستودع يعمل.
-- [ ] يمكن للمدرس رؤية Issues وPull Requests وReviews وProject Board.
+- [x] رابط المستودع يعمل.
+- [x] يمكن للمدرس رؤية Issues وPull Requests وReviews وProject Board.
